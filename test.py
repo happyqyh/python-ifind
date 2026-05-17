@@ -7,3 +7,5 @@ print("login =", login)
 # 测试数据（平安银行收盘价）
 data = THS_BD("000001.SZ", "ths_close_price_stock", "")
 print(data)
+
+print("hello")
